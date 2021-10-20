@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @andipiee
+- 👋 Hi, I’m @andipiee!
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Data Structure and Algorithm
-- 💞️ I’m looking to collaborate on backend development projects
+- 🌱 I’m currently learning Machine Learning 
+- 💞️ I’m looking to collaborate on machine learning projects :D
 - 📫 You can reach me at andiwidip@gmail.com
