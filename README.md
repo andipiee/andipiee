@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @andipiee!
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on useful project that can help people life's to get easier
+- 👋 Hi, I’m Andi! I live in Bali, Indonesia.
+- 👀 I’m a self-taught software developer.
+- 🌱 Currently building reddit clone app.
+- 💞️ My dream is get to work overseas in Netherland.
 - 📫 You can reach me at andiwidip@gmail.com
