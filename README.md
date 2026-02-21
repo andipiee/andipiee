@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Andi! I live in Bali, Indonesia.
-- 👀 I’m a self-taught software developer.
-- 🌱 Currently learning Typescript, Node.js, MongoDB, PostgreSQL, and GraphQL.
-- 💞️ I love pastries and ice cream!
-- 📫 You can reach me at andiwidip@gmail.com
+
